@@ -4,7 +4,7 @@
 // The go build command compiles Go source code into a binary format that computers can execute.
 
 // The go run command compiles and runs a program without saving an executable file in the current directory.
-package main
+package passFail
 
 import (
 	"fmt"
@@ -12,7 +12,7 @@ import (
 	"log"
 )
 
-func main() {
+func PassFail() {
 	fmt.Print("Enter a grade: ")
 	grade, err := keyboard.GetFloat()
 	if err != nil {
