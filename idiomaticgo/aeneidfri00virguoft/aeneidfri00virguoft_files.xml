@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="__ia_thumb.jpg" source="original">
+    <mtime>1648164587</mtime>
+    <size>17938</size>
+    <md5>71f0f4cd78d8193c2930965bf2c8e54b</md5>
+    <crc32>2ef96601</crc32>
+    <sha1>30fcf5415e630eb55a738a7aecaa9c0d63b7829b</sha1>
+    <format>Item Tile</format>
+    <rotation>0</rotation>
+  </file>
+  <file name="aeneidfri00virguoft.djvu" source="derivative">
+    <format>DjVu</format>
+    <original>aeneidfri00virguoft_djvu.xml</original>
+    <md5>4e1535a3b6a545fc0efb60f2b542edf2</md5>
+    <mtime>1232015697</mtime>
+    <size>19784722</size>
+    <crc32>8f93641b</crc32>
+    <sha1>30042d2e606a349c8d47d742e708dc7a4b502be5</sha1>
+  </file>
+  <file name="aeneidfri00virguoft.gif" source="derivative">
+    <format>Animated GIF</format>
+    <original>aeneidfri00virguoft_jp2.zip</original>
+    <md5>6fc15cae91f7646b9f757f4428fbc335</md5>
+    <mtime>1231986538</mtime>
+    <size>287843</size>
+    <crc32>e9047de7</crc32>
+    <sha1>988ec38855d71c47294aa3b401af929008bd2528</sha1>
+  </file>
+  <file name="aeneidfri00virguoft.pdf" source="derivative">
+    <format>Text PDF</format>
+    <original>aeneidfri00virguoft_page_numbers.json</original>
+    <md5>1953ca1578cfaa9fb84e339250c31dc4</md5>
+    <mtime>1635733235</mtime>
+    <size>35189442</size>
+    <crc32>29c10afa</crc32>
+    <sha1>098e191d60d1856c492c4f5f05c6433b1faccaef</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_abbyy.gz" source="derivative">
+    <format>Abbyy GZ</format>
+    <original>aeneidfri00virguoft_jp2.zip</original>
+    <md5>ec028869d73708509a7845cbab98ec7f</md5>
+    <mtime>1232013110</mtime>
+    <size>21416133</size>
+    <crc32>eb976a4f</crc32>
+    <sha1>79cd7204223d49e411baf1129aea25f5f8770d17</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_archive.torrent" source="metadata">
+    <btih>7faf81e719d1196fcf5edaffcff1cbabefbb2542</btih>
+    <mtime>1648164591</mtime>
+    <size>20300</size>
+    <md5>b3f8a2e8c53661c5f92364cd55a52a55</md5>
+    <crc32>6b2461ff</crc32>
+    <sha1>39523df490c9df5d4fd640d8e07be0c8d0cee880</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="aeneidfri00virguoft_bw.pdf" source="derivative">
+    <format>Grayscale PDF</format>
+    <original>aeneidfri00virguoft_page_numbers.json</original>
+    <md5>ebe454fedb1b9659665cbecae0ffd8d9</md5>
+    <mtime>1635733235</mtime>
+    <size>32058961</size>
+    <crc32>c892e839</crc32>
+    <sha1>600d7895b717fc0dffe12c8df4cbed279db02fa1</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_chocr.html.gz" source="derivative">
+    <ocr_module_version>0.0.13</ocr_module_version>
+    <ocr_converted>abbyy-to-hocr 1.1.7</ocr_converted>
+    <format>chOCR</format>
+    <original>aeneidfri00virguoft_abbyy.gz</original>
+    <mtime>1635732813</mtime>
+    <size>17458757</size>
+    <md5>cf69e1855266c91a8b14a70c890d0234</md5>
+    <crc32>f34ffd56</crc32>
+    <sha1>3c165a00294ee769f6c99940689ce8ddd13601c5</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_dc.xml" source="original">
+    <format>Dublin Core</format>
+    <md5>9f634fc08f4b34a1140d6ac562002bfa</md5>
+    <mtime>1648164585</mtime>
+    <size>543</size>
+    <crc32>326e35ac</crc32>
+    <sha1>9fddbf838a26693eb57cec7f4b0db83cf16c68b2</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_djvu.txt" source="derivative">
+    <format>DjVuTXT</format>
+    <original>aeneidfri00virguoft_djvu.xml</original>
+    <mtime>1635733159</mtime>
+    <size>1569059</size>
+    <md5>611878f6cf791c172d9860dcb09f01bf</md5>
+    <crc32>66916cd8</crc32>
+    <sha1>04fa48fa150736cd220faaf52310d0bf12eebeb8</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_djvu.xml" source="derivative">
+    <format>Djvu XML</format>
+    <original>aeneidfri00virguoft_hocr.html</original>
+    <mtime>1635732998</mtime>
+    <size>17967935</size>
+    <md5>0d70037befe0710da23a591cd001e75d</md5>
+    <crc32>8f5af934</crc32>
+    <sha1>45ea7e53b1575a8af87bfd75e10358fbf3e50412</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>5edbe7505c094ec1abbc20cc931e5d17</md5>
+    <summation>md5</summation>
+  </file>
+  <file name="aeneidfri00virguoft_hocr.html" source="derivative">
+    <hocr_char_to_word_module_version>1.0.0</hocr_char_to_word_module_version>
+    <hocr_char_to_word_hocr_version>1.1.2</hocr_char_to_word_hocr_version>
+    <ocr_module_version>0.0.13</ocr_module_version>
+    <ocr_converted>abbyy-to-hocr 1.1.7</ocr_converted>
+    <format>hOCR</format>
+    <original>aeneidfri00virguoft_chocr.html.gz</original>
+    <mtime>1635732954</mtime>
+    <size>34137551</size>
+    <md5>63939e2bbaba4f7057a75b2794382651</md5>
+    <crc32>7a627ffc</crc32>
+    <sha1>40de941b47b7087d6ecdf0319d1a0818b499740d</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_hocr_pageindex.json.gz" source="derivative">
+    <hocr_pageindex_module_version>1.0.0</hocr_pageindex_module_version>
+    <hocr_pageindex_hocr_version>1.1.0</hocr_pageindex_hocr_version>
+    <format>OCR Page Index</format>
+    <original>aeneidfri00virguoft_hocr.html</original>
+    <mtime>1635733060</mtime>
+    <size>7723</size>
+    <md5>c182f7536ded4c047e96d83e7ccdb24a</md5>
+    <crc32>153ba859</crc32>
+    <sha1>7b3a753acc5c06ae9a1290506fe4e8f8d9ae9dbd</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_hocr_searchtext.txt.gz" source="derivative">
+    <hocr_fts_text_module_version>1.1.0</hocr_fts_text_module_version>
+    <hocr_fts_text_hocr_version>1.1.0</hocr_fts_text_hocr_version>
+    <word_conf_0_10>38336</word_conf_0_10>
+    <word_conf_11_20>36066</word_conf_11_20>
+    <word_conf_21_30>40133</word_conf_21_30>
+    <word_conf_31_40>34824</word_conf_31_40>
+    <word_conf_41_50>36275</word_conf_41_50>
+    <word_conf_51_60>24360</word_conf_51_60>
+    <word_conf_61_70>13313</word_conf_61_70>
+    <word_conf_71_80>5169</word_conf_71_80>
+    <word_conf_81_90>1444</word_conf_81_90>
+    <word_conf_91_100>2081</word_conf_91_100>
+    <format>OCR Search Text</format>
+    <original>aeneidfri00virguoft_hocr.html</original>
+    <mtime>1635733135</mtime>
+    <size>631992</size>
+    <md5>5fbcd032e99ebaaa3319b81456920879</md5>
+    <crc32>6d5565f7</crc32>
+    <sha1>27ae254ab16e9d3d5a124951b8cd4452bbc42113</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_jp2.zip" source="derivative">
+    <format>Single Page Processed JP2 ZIP</format>
+    <original>aeneidfri00virguoft_orig_jp2.tar</original>
+    <md5>f6be9ae342ecc0aa1149607af73d2cb0</md5>
+    <mtime>1231986492</mtime>
+    <size>219762905</size>
+    <crc32>85ca3ad3</crc32>
+    <sha1>9ee351c987d90524ab6ffb3bdf72240f39444f5e</sha1>
+    <filecount>636</filecount>
+  </file>
+  <file name="aeneidfri00virguoft_marc.xml" source="original">
+    <format>MARC</format>
+    <md5>9bc533fed78a3bd0544eb93ba1453f1a</md5>
+    <mtime>1231955180</mtime>
+    <size>2238</size>
+    <crc32>d295c580</crc32>
+    <sha1>9db0f94e2ffa630407abe58f3e409e87a62b341c</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_meta.mrc" source="original">
+    <format>MARC Binary</format>
+    <md5>91fd76dfa42f7c1773720fad1f8d7c04</md5>
+    <mtime>1231955180</mtime>
+    <size>619</size>
+    <crc32>35460a12</crc32>
+    <sha1>6cd658ae441bc4161287955a43c37f998285b23d</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1648164585</mtime>
+    <size>2157</size>
+    <md5>c641b5fa658ff4c7cd46dbff55c992e6</md5>
+    <crc32>f1cf9ad5</crc32>
+    <sha1>f63ad9a7e595cf9d54f3a5b914cb1d525f042115</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_metasource.xml" source="original">
+    <format>MARC Source</format>
+    <md5>e4bb3cd7518ea2dbd488e6b8db5b1c7f</md5>
+    <mtime>1231955180</mtime>
+    <size>377</size>
+    <crc32>9c940d7e</crc32>
+    <sha1>2ff2e71495f0ec47a3c29ba817dfee1c21ff2bb5</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_orig_jp2.tar" source="original">
+    <format>Single Page Original JP2 Tar</format>
+    <md5>fae6bc33bd0039c215edf0f82db1637a</md5>
+    <mtime>1231971490</mtime>
+    <size>394168320</size>
+    <crc32>42ca8deb</crc32>
+    <sha1>4325ef82e2b5079ee1be4de7e9c81a5b5e585324</sha1>
+    <filecount>636</filecount>
+  </file>
+  <file name="aeneidfri00virguoft_page_numbers.json" source="derivative">
+    <format>Page Numbers JSON</format>
+    <original>aeneidfri00virguoft_djvu.xml</original>
+    <mtime>1635733168</mtime>
+    <size>123020</size>
+    <md5>ca0ffa1169bd8d019cb8c7b23aefe126</md5>
+    <crc32>06dda5a3</crc32>
+    <sha1>67a598c2ae12960b2296236a3e339fed22d6f74e</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_scandata.xml" source="original">
+    <format>Scandata</format>
+    <md5>0b513e4eacd5dcf1f1d90c3d97a08bb3</md5>
+    <mtime>1231971449</mtime>
+    <size>365602</size>
+    <crc32>e06e15d9</crc32>
+    <sha1>8896ffccca4b3daa517294f21bbfbe365bf1fde9</sha1>
+  </file>
+  <file name="aeneidfri00virguoft_scanfactors.xml" source="derivative">
+    <format>Scan Factors</format>
+    <original>aeneidfri00virguoft_djvu.xml</original>
+    <md5>4ea3a618eaadf3e6387a648f689640fb</md5>
+    <mtime>1232016085</mtime>
+    <size>9340</size>
+    <crc32>f7b325dd</crc32>
+    <sha1>3fcc6bfbbc16f8b9f4b2450bf21af7c96f7f1696</sha1>
+  </file>
+</files>
